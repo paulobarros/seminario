@@ -15,7 +15,7 @@ format:
 
 ## &nbsp; {background-image="images/bg.png" background-repeat="no-repeat" background-size="contain"}
 
-<br> <br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br>
 
 :::{.columns}
 
