@@ -1,0 +1,219 @@
+---
+format: 
+  revealjs: 
+    theme: [default,stats101.scss]
+    title-slide-attributes:
+      data-background-image: images/bg.png
+      data-background-size: contain
+    slide-number: true
+    highlight-style: dracula
+    incremental: true   
+    width: 1920
+    height: 1080
+    monofont: "Iosevka Nerd Font Mono"
+---
+
+## &nbsp; {background-image="images/bg.png" background-repeat="no-repeat" background-size="contain"}
+
+<br> <br> <br> <br> <br> <br> <br> <br>
+
+:::{.columns}
+
+:::{.column width="40%"}
+
+![](images/paper.png){width=700}
+
+:::
+
+
+:::{.column width="60%"}
+
+# A pós-graduação stricto sensu do Brasil: espaço de formação de professores universitários
+<br>
+Mário Luiz Junges Junior, Flávia Stefanello & Josimar de Aparecido Vieira
+
+<br>
+<br>
+<br>
+<br>
+<br>
+**Discentes:** Eduardo Henrique, Nadjane Vieira, Osman Ronaldo, Paulo Barros e Vanessa Souza
+
+:::
+
+:::
+
+
+## Introdução
+
+:::{.fragment}
+> Art. 66 - A preparação para o exercício do magistério superior far-se-á em nível de pós-graduação, prioritariamente em programas de mestrado e doutorado. (Lei de Diretrizes e Bases 9394/96)
+
+:::
+
+<br>
+
+* Pesquisador, Docente, Docente enquanto não Pesquisador
+
+<br>
+
+:::{.fragment}
+> "...é preciso que processos metodológicos e didáticos façam parte dos saberes e habilidades de quem se propõe a ensinar levando em consideração que o processo ensino-aprendizagem ultrapassa o domínio do conteúdo e a produção de conhecimento."
+
+:::
+
+<br>
+
+* A docência universitária ainda é um gargalo das IES
+
+* A qualidade dos docentes universitários depende, também, da formação pedagógica que deveria ser ofertada nos estágios em docência
+
+
+<br>
+
+
+
+
+## Objetivo e Percurso metodológico
+
+<br> <br><br> <br>
+
+* **O objetivo do trabalho é discutir os aspectos relacionados ao processo de formação docente nas principais IES e a presença (ou ausência) de componentes curriculares voltados para a formação do professor universitário.**
+
+<br> <br>
+
+* Pesquisa exploratória e descritiva
+<br> <br>
+
+* Examinou dados obtidos de 26 programas de pós-graduação _stricto sensu_ em Universidade Federais
+
+## Docência no ensino superior: como se forma o professor universitário?
+
+* Processo formativo pouco tem a ver com a sala de aula
+
+<br>
+
+* PPG são os maiores responsáveis pela formação de novos professores
+
+<br>
+
+* Licenciaturas, Normal superior (licenciatura), Pedagogia e Magistério (não é curso superior!) {{< fa caret-right >}} Habilitam para educação infantil, fundamental e médio.
+
+<br>
+
+* Bacharelado {{< fa caret-right >}} **não habilitam a lecionar**, para Docência superior exige-se pelo menos Pós-Graduação Lato Senso (especialização).
+
+<br>
+
+* A própria legislação vigente é omissa quanto a formação necessária para habilitação profissional Bacharel na atuação na educação superior.
+
+## Docência no ensino superior: como se forma o professor universitário?
+
+* Aspectos sociais, políticos, ambientais e culturais permeiam o ensino, em perspectivas diferentes da pesquisa.
+
+<br>
+
+* Perfil do professor universitário:
+
+  + grande domínio do conteúdo
+  + sem formação pedagógica
+  + se espelha em seus antigos professores
+  + **circulo vicioso da perpetuação da miséria**
+
+<br>
+
+* **Saber fazer não implica em saber ensinar**, habilidades metodológicas e didáticas, e capacidade de compreender o processo de ensino-aprendizagem
+
+<br>
+
+:::{.fragment}
+> A formação do professor universitário não pode simplesmente emergir do
+ato de improvisar, imitar ou apenas dominar conteúdos.
+
+:::
+
+
+
+## Programas de pós-graduação stricto sensu nas universidades federais do Brasil: uma análise curricular
+
+:::{.columns}
+:::{.column  width="50%"}
+
+<br>
+
+* 4.588 PPG _Stricto Sensu_ reconhecidos pela CAPES
+
+<br>
+
+:::{.fragment}
+> Art. 18. O
+estágio de docência é parte da formação do pós-graduando, objetivando a preparação para a docência, e a qualificação do ensino de graduação [...] Portaria CAPES 76/2010
+
+:::
+
+* Das 26 IES avaliadas, 16 possuem curso de M/D nos programas analisados. 
+
+<br>
+
+* Do total, 7 não descrevem a formação de docentes como um dos objetivos dos seus programas
+
+
+:::
+
+:::
+
+
+![](images/fig1.png){.absolute top=80 right=20 width=800}
+
+## Programas de pós-graduação stricto sensu nas universidades federais do Brasil: uma análise curricular
+
+<br>
+
+:::{.fragment}
+> Acrescente-se, ainda, que o funcionamento regular dos cursos de pós-graduação constitui imperativo da formação do professor universitário. **Uma das grandes falhas de nosso ensino superior está precisamente em que o sistema não dispõe de mecanismos capazes de assegurar a produção de quadros docentes qualificados.** Daí a crescente expansão desse ramo de ensino, nessas últimas décadas, se ter feito com professores improvisados e consequentemente rebaixamento de seus padrões. Por isso mesmo o programa de ampliação das matrículas dos cursos superiores supõe uma política objetiva e eficaz de treinamento adequado do professor universitário. **E o instrumento normal desse treinamento são os cursos de pós-graduação.** (Conselho Federal de Educação, 1965)
+
+:::
+
+<br>
+
+* Entre as IES, 7 não apresentam Estágio em Docência no currículo: UFRGS, UNIFESP, UFBA, UFAL, UFMA, UFT, UFAC. 
+
+* A maioria das que incluem Estágio em Docência os oferecem em caráter Eletivo.
+
+* 6 IES possuem CH abaixo de 2 créditos, enquanto alguns programas destinam 4 créditos para Estágio em docência (UFPR,UFC,UFAM e UFMT).
+
+## A formação do professor e os programas de pós-graduação stricto sensu: parâmetros e contradições
+
+<br>
+
+* Os PPG negligenciam aspectos fundamentais da formação pedagógica do professor universitário
+
+<br>
+
+* A formação docente é suprimida pela formação do Pesquisador.
+
+<br>
+
+* Formações direcionadas pelas demandas do mercado
+
+<br>
+
+* Baixa carga horária, eletividade, falta de componentes curriculares associados a formação docente.
+
+## Considerações finais
+
+<br>
+
+* Existem contradições entre o ideal de formação e a prática nos PPGs.
+
+<br>
+
+* Cumpre-se o mínimo exigido pelas normatizações, afetando assim a formação de docentes qualificados.
+
+<br>
+
+* O Ensino Superior precisa equilibrar a formação técnica com a formação pedagógica para englobar a multitude da formação acadêmica necessária.
+
+## Referências
+
+JUNIOR, Mário Luiz Junges; STEFANELLO, Flávia; DE APARECIDO VIEIRA, Josimar. A pós-graduação stricto sensu do Brasil: espaço de formação de professores universitários. Educação, Ciência e Cultura, v. 26, n. 2, p. 01-13, 2021. DOI: <http://dx.doi.org/10.18316/recc.v26i2.7615>
